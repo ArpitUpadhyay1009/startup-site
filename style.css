@@ -1,0 +1,45 @@
+body,
+html{
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(images/laptop.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1{
+  font-size: 2rem;
+  color: #e2dbdb;
+}
+
+hr{
+  border-color: #ee4b08;
+  border-width: 5px;
+  max-width: 60px;
+  margin-left: 530px;
+}
+
+.btn{
+  font-weight: 700px;
+  font-size: 1rem;
+  border-radius: 300px;
+}
+
+.btn-primary{
+  background-color: #f05f44;
+  border-color: #f04f44;
+}
+
+.btn-primary:hover{
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 3px;
+}
+
+.btn-xl{
+  padding: 15px;
+}
+
+.buffer{
+  height: 8rem;
+}
